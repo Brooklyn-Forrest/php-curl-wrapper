@@ -1,6 +1,6 @@
 <?php
 
-class avm_backup_api
+class api
 {
     private $authtoken;
     protected $shell;
